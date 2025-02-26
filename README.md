@@ -1,4 +1,4 @@
-# Company Growth & Demand Forecasting Using Power BI Dashboards
+# Power-BI-Dashboards-For-Demand-Forecasting
 ![](https://github.com/SuhasR3/Power-BI-Dashboard/blob/main/Power-BI/Dashboard.png)
 
 ## Overview
