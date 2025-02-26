@@ -4,7 +4,7 @@ This document briefly outlines the steps used to extract, transform, and load ou
 
 - `bike_share_year_0.csv`
 - `bike_share_year_1.csv`
-- `profit_table.csv`
+- `cost_table.csv`
 
 ## Extraction
 
@@ -53,7 +53,7 @@ ON STR_TO_DATE(bs.dteday, '%c/%e/%Y') = STR_TO_DATE(pt.dteday, '%c/%e/%Y');
 
 ## Loading
 
-Finally, we filter out any incomplete or irrelevant records and load the data into a final table ready for analysis:
+Finally, we filter out any incomplete or irrelevant records and load the data into a final table ready for dashboard creation:
 ```
 CREATE TABLE cleaned_merged_data AS
 SELECT *
