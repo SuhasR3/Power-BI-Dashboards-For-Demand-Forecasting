@@ -11,6 +11,7 @@ This project analyzes company growth and forecasts demand by extracting, transfo
 - **Reporting**: Streamlined data reporting to support informed business decisions.
 
 ## Repository Structure
+```
 company-growth-demand-forecasting/
 ├── sql/
 │   ├── etl_process.md
@@ -23,3 +24,4 @@ company-growth-demand-forecasting/
 │   ├── bike_share_year_0.csv
 │   └── cost_table.csv
 └── README.md
+```
