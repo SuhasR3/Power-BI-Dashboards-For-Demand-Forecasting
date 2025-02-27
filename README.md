@@ -1,6 +1,8 @@
 # Power-BI-Dashboards-For-Demand-Forecasting
 ![](https://github.com/SuhasR3/Power-BI-Dashboard/blob/main/power-bi/Dashboard_Screenshot.png)
 
+A comprehensive ETL pipeline that consolidates, cleans, and transforms bike share and cost data, preparing it for insightful dashboard visualizations.
+
 ## Overview
 This project analyzes company growth and forecasts demand by extracting, transforming, and visualizing data from SQL databases and Power BI dashboards. The analysis identified a 59% increase in demand and a 45% profit margin, providing actionable insights for strategic decision-making.
 
